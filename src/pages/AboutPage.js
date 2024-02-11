@@ -14,7 +14,7 @@ const AboutPage = () => {
           <div className='underline'></div>
         </div>
         <p>
-          An e-commerce site made as a frontend project using React.js. You can search products and filter it also add it to your cart.
+          An E-Commerce site made as a frontend project using React.js. You can search products and filter it also add it to your cart.
         </p>
       </article>
     </Wrapper>
